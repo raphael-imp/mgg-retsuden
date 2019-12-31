@@ -1,0 +1,423 @@
+[00:55:43] [Server thread/INFO]: Loading properties
+[00:55:45] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-2ee05fe-d31f05f (MC: 1.15.1) (Implementing API version 1.15.1-R0.1-SNAPSHOT)
+[00:55:47] [Server thread/INFO]: Debug logging is disabled
+[00:55:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:55:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:55:47] [Server thread/INFO]: Default game type: CREATIVE
+[00:55:47] [Server thread/INFO]: Generating keypair
+[00:55:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:55:48] [Server thread/INFO]: Using default channel type
+[00:56:05] [Server thread/WARN]: Plugin MGG-Retsuden v1.0 does not specify an api-version.
+[00:56:05] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0-beta-1;7039dc8
+[00:56:10] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2e081c89]
+[00:56:10] [Server thread/INFO]: [MGG-Retsuden] Loading MGG-Retsuden v1.0
+[00:56:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0-beta-1;7039dc8
+[00:56:10] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:56:11] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R1 as the Bukkit adapter
+[00:56:13] [Server thread/WARN]: [WorldEdit] ====================================================
+[00:56:13] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[00:56:13] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[00:56:13] [Server thread/WARN]: [WorldEdit]   
+[00:56:13] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[00:56:13] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[00:56:13] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[00:56:13] [Server thread/WARN]: [WorldEdit]   
+[00:56:13] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[00:56:13] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[00:56:13] [Server thread/WARN]: [WorldEdit]   
+[00:56:13] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[00:56:13] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[00:56:13] [Server thread/WARN]: [WorldEdit]   
+[00:56:13] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[00:56:13] [Server thread/WARN]: [WorldEdit] ====================================================
+[00:56:14] [Server thread/INFO]: Preparing level "Mundo"
+[00:56:15] [Server thread/INFO]: Found new data pack file/bukkit, loading it automatically
+[00:56:15] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[00:56:15] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[00:56:18] [Server thread/INFO]: Loaded 6 recipes
+[00:56:20] [Server thread/INFO]: -------- World Settings For [Mundo] --------
+[00:56:20] [Server thread/INFO]: View Distance: 10
+[00:56:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:56:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:56:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:56:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:56:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:56:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:56:20] [Server thread/INFO]: Max TNT Explosions: 100
+[00:56:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:56:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:56:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:56:20] [Server thread/INFO]: Mob Spawn Range: 6
+[00:56:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:56:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:56:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:56:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:57:18] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:57:18] [Server thread/INFO]: Preparing start region for dimension 'Mundo'/minecraft:overworld
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:06] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:14] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:37] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:45] [Server-Worker-2/INFO]: Preparing spawn area: 30%
+[00:58:45] [Server-Worker-2/INFO]: Preparing spawn area: 30%
+[00:58:45] [Server-Worker-2/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server thread/INFO]: Preparing spawn area: 31%
+[00:58:45] [Server-Worker-2/INFO]: Preparing spawn area: 31%
+[00:58:51] [Server thread/INFO]: Time elapsed: 92212 ms
+[00:58:51] [Server thread/INFO]: [MGG-Retsuden] Enabling MGG-Retsuden v1.0
+[00:58:51] [Server thread/INFO]: [0;32;1mPlugin ativado![m
+[00:58:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:58:51] [Server thread/INFO]: Done (157.257s)! For help, type "help"
+[00:59:12] [User Authenticator #1/INFO]: UUID of player raphael_imp is b05615ba-6857-4364-82b6-fb89a3f0f213
+[00:59:12] [Server thread/WARN]: Invalid statistic in .\Mundo\stats\b05615ba-6857-4364-82b6-fb89a3f0f213.json: Don't know what minecraft:159 is
+[00:59:12] [Server thread/WARN]: Using offline mode UUID file for player raphael_imp as it is the only copy we can find.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[00:59:13] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[00:59:17] [Server thread/INFO]: raphael_imp[/127.0.0.1:3672] logged in with entity id 546 at ([Mundo]1795.5340134016424, 109.7431246247485, -680.6539134957784)
+[00:59:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5043ms or 100 ticks behind
+[00:59:40] [Server thread/INFO]: raphael_imp issued server command: /tp 0 80 0
+[00:59:41] [Server thread/INFO]: [raphael_imp: Teleported raphael_imp to 0.5, 80.0, 0.5]
+[01:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40167ms or 803 ticks behind
+[01:01:38] [Server thread/INFO]: raphael_imp issued server command: /pl
+[01:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5929ms or 118 ticks behind
+[01:08:46] [Async Chat Thread - #0/INFO]: <raphael_imp> a[m
+[01:09:46] [Server thread/WARN]: raphael_imp moved too quickly! 57.390122377964275,0.0,-24.955256110302912
+[01:41:11] [Server thread/INFO]: raphael_imp issued server command: //cut
+[01:41:20] [Server thread/INFO]: raphael_imp issued server command: //undo
+[01:41:35] [Server thread/INFO]: raphael_imp issued server command: //cut
+[01:41:47] [Server thread/INFO]: raphael_imp issued server command: //paste
+[01:42:10] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[01:42:32] [Server thread/INFO]: raphael_imp issued server command: //stack 5
+[01:42:36] [Server thread/INFO]: raphael_imp issued server command: //stack 8
+[01:42:39] [Server thread/INFO]: raphael_imp issued server command: //stack 9
+[01:42:41] [Server thread/INFO]: raphael_imp issued server command: //stack 11
+[01:43:34] [Server thread/INFO]: raphael_imp issued server command: //move 5
+[01:43:35] [Server thread/ERROR]: Block at 9, 64, -231 is Block{minecraft:dark_oak_slab} but has net.minecraft.server.v1_15_R1.TileEntityChest@17f5efd2. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[01:43:35] [Server thread/ERROR]: Block at 9, 64, -231 is Block{minecraft:dark_oak_slab} but has net.minecraft.server.v1_15_R1.TileEntityChest@17f5efd2. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[01:43:35] [Server thread/ERROR]: Block at 9, 64, -215 is Block{minecraft:quartz_block} but has net.minecraft.server.v1_15_R1.TileEntityChest@29d49dec. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[01:43:35] [Server thread/ERROR]: Block at 9, 64, -215 is Block{minecraft:quartz_block} but has net.minecraft.server.v1_15_R1.TileEntityChest@29d49dec. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[01:44:21] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[01:45:02] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[01:45:44] [Server thread/INFO]: raphael_imp issued server command: //move 2
+[01:46:00] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[01:46:05] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[01:46:08] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[01:46:28] [Server thread/INFO]: raphael_imp issued server command: //move 3
+[01:46:35] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[01:46:38] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[01:48:42] [Server thread/INFO]: raphael_imp issued server command: //move 3
+[01:49:38] [Server thread/INFO]: raphael_imp issued server command: //set minecraft:terracotta:red
+[01:49:41] [Server thread/INFO]: raphael_imp issued server command: //set minecraft:terracotta
+[01:50:07] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[01:50:19] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[01:51:21] [Server thread/INFO]: raphael_imp issued server command: /up 20
+[01:51:21] [Server thread/WARN]: raphael_imp moved too quickly! 0.005115003971241094,20.0,0.15968728719144565
+[01:51:21] [Server thread/WARN]: raphael_imp moved too quickly! 0.005115003971241094,20.0,0.15968728719144565
+[01:52:01] [Server thread/INFO]: raphael_imp issued server command: //move 8
+[01:52:59] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[01:53:10] [Server thread/INFO]: raphael_imp issued server command: /up 10
+[01:53:10] [Server thread/WARN]: raphael_imp moved too quickly! -0.007504658757198968,10.0,0.10084433985005603
+[01:53:34] [Server thread/INFO]: raphael_imp issued server command: //move 5
+[01:53:40] [Server thread/INFO]: raphael_imp issued server command: //undo
+[01:53:44] [Server thread/INFO]: raphael_imp issued server command: //move 10
+[01:53:54] [Server thread/INFO]: raphael_imp issued server command: //set 5:6
+[01:53:59] [Server thread/INFO]: raphael_imp issued server command: //set wood:
+[01:54:29] [Server thread/INFO]: raphael_imp issued server command: //set 125
+[01:54:35] [Server thread/INFO]: raphael_imp issued server command: //set 152
+[01:54:39] [Server thread/INFO]: raphael_imp issued server command: //set quartz
+[01:54:42] [Server thread/INFO]: raphael_imp issued server command: //set minecraft:quartz_block
+[01:54:52] [Server thread/INFO]: raphael_imp issued server command: //set 24
+[01:55:28] [Server thread/INFO]: raphael_imp issued server command: /up 5
+[01:55:45] [Server thread/INFO]: raphael_imp issued server command: //move 15
+[01:56:01] [Server thread/INFO]: raphael_imp issued server command: //undo
+[01:56:04] [Server thread/INFO]: raphael_imp issued server command: //move 24
+[01:56:22] [Server thread/INFO]: raphael_imp issued server command: //cut
+[01:56:28] [Server thread/INFO]: raphael_imp issued server command: //paste
+[01:56:35] [Server thread/INFO]: raphael_imp issued server command: //set 24
+[01:58:19] [Server thread/INFO]: raphael_imp issued server command: //set 24
+[01:59:57] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[02:00:06] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[02:01:09] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:01:31] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:01:35] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:01:43] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:02:09] [Server thread/INFO]: raphael_imp issued server command: //stack 4
+[02:02:14] [Server thread/INFO]: raphael_imp issued server command: //undo
+[02:02:20] [Server thread/INFO]: raphael_imp issued server command: //stack 4
+[02:02:25] [Server thread/INFO]: raphael_imp issued server command: //undo
+[02:02:28] [Server thread/INFO]: raphael_imp issued server command: //stack 3
+[02:03:20] [Server thread/INFO]: raphael_imp issued server command: //stack 4
+[02:03:45] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[02:03:56] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:04:02] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:04:54] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[02:04:59] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:05:05] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[02:05:10] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:05:49] [Server thread/INFO]: raphael_imp issued server command: //stack 5
+[02:05:54] [Server thread/INFO]: raphael_imp issued server command: //undo
+[02:05:58] [Server thread/INFO]: raphael_imp issued server command: //stack 5
+[02:08:42] [Server thread/INFO]: raphael_imp issued server command: /up 5
+[02:08:55] [Server thread/INFO]: raphael_imp issued server command: //move 4
+[02:09:36] [Server thread/INFO]: raphael_imp issued server command: //move 1
+[02:09:46] [Server thread/INFO]: raphael_imp issued server command: //stack 1
+[02:10:03] [Server thread/INFO]: raphael_imp issued server command: //set 2
+[02:10:27] [Server thread/INFO]: raphael_imp issued server command: //move 10
+[02:10:33] [Server thread/INFO]: raphael_imp issued server command: //undo
+[02:10:35] [Server thread/INFO]: raphael_imp issued server command: //move 8
+[02:10:44] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:11:36] [Server thread/INFO]: raphael_imp issued server command: //set 2
+[02:12:52] [Server thread/INFO]: raphael_imp issued server command: //copy
+[02:12:55] [Server thread/INFO]: raphael_imp issued server command: //rotate 180
+[02:13:00] [Server thread/INFO]: raphael_imp issued server command: //paste
+[02:13:52] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:14:03] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:14:10] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:16:50] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:18:37] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:18:42] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:18:47] [Server thread/INFO]: raphael_imp issued server command: //undo
+[02:18:56] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[02:19:03] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:19:03] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:22:16] [Server thread/INFO]: raphael_imp issued server command: //move 1
+[02:22:23] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:23:08] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:23:10] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:23:16] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:23:30] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:23:34] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:24:01] [Server thread/INFO]: raphael_imp issued server command: //move 5
+[02:24:18] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:24:25] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:24:29] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:24:50] [Server thread/INFO]: raphael_imp issued server command: //set 98
+[02:24:57] [Server thread/INFO]: raphael_imp issued server command: //stack 30
+[02:25:54] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[02:25:59] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:26:06] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:26:49] [Server thread/INFO]: raphael_imp issued server command: //set 24
+[02:27:18] [Server thread/INFO]: raphael_imp issued server command: //move 6
+[02:27:31] [Server thread/INFO]: raphael_imp issued server command: //set 24
+[02:28:07] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:28:39] [Server thread/INFO]: raphael_imp issued server command: /up 8
+[02:28:45] [Server thread/INFO]: raphael_imp issued server command: //cut
+[02:29:02] [Server thread/INFO]: raphael_imp issued server command: /up 8
+[02:29:05] [Server thread/INFO]: raphael_imp issued server command: //rotate 90
+[02:29:08] [Server thread/INFO]: raphael_imp issued server command: //paste
+[02:29:11] [Server thread/INFO]: raphael_imp issued server command: //undo
+[02:29:14] [Server thread/INFO]: raphael_imp issued server command: //rotate 180
+[02:29:15] [Server thread/INFO]: raphael_imp issued server command: //paste
+[02:29:31] [Server thread/INFO]: raphael_imp issued server command: //cut
+[02:29:39] [Server thread/INFO]: raphael_imp issued server command: //rotate -90
+[02:29:45] [Server thread/INFO]: raphael_imp issued server command: //paste
+[02:29:48] [Server thread/INFO]: raphael_imp issued server command: //undo
+[02:29:50] [Server thread/INFO]: raphael_imp issued server command: //rotate 180
+[02:29:52] [Server thread/INFO]: raphael_imp issued server command: //paste
+[02:29:57] [Server thread/INFO]: raphael_imp issued server command: //undo
+[02:30:00] [Server thread/INFO]: raphael_imp issued server command: //paste
+[02:30:21] [Server thread/INFO]: raphael_imp issued server command: //set 1:6
+[02:30:25] [Server thread/INFO]: raphael_imp issued server command: //set 0
+[02:30:40] [Server thread/INFO]: raphael_imp issued server command: //set 12
+[02:39:32] [Server thread/INFO]: raphael_imp lost connection: Disconnected
+[02:39:32] [Server thread/INFO]: raphael_imp left the game
+[02:39:38] [Server thread/INFO]: Stopping the server
+[02:39:38] [Server thread/INFO]: Stopping server
+[02:39:38] [Server thread/INFO]: [MGG-Retsuden] Disabling MGG-Retsuden v1.0
+[02:39:38] [Server thread/INFO]: [0;31;1mPlugin desativado![m
+[02:39:38] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0-beta-1;7039dc8
+[02:39:38] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:39:38] [Server thread/INFO]: Saving players
+[02:39:38] [Server thread/INFO]: Saving worlds
+[02:39:38] [Server thread/INFO]: Saving chunks for level 'Mundo'/minecraft:overworld
+[02:39:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (Mundo): All chunks are saved
+[02:39:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (Mundo): All chunks are saved
