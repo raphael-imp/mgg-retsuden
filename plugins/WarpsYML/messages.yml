@@ -1,0 +1,38 @@
+# COLORS                               #  ALIASES
+# §0 black       | dark gray       §8  #  
+# §1 dark blue   | blue            §9  #  All commands:
+# §2 dark green  | green           §a  #  %playername%
+# §3 dark aqua   | aqua            §b  #  %commandusage% 
+# §4 dark red    | red             §c  #  
+# §5 dark purple | light purple    §d  #  Warp, setwarp and delwarp commands:
+# §6 gold        | yellow          §e  #  %warpname% 
+# §7 gray        | white           §f  #  %warplocation%
+#				       #  
+# STYLES			       #  Warplist command:
+# §k magic  	 | underline	   §n  #  %warplist%
+# §l bold   	 | italic	   §o  #
+
+#plugin (appears only in console)
+on-enable: "§aWarpsYML enabled!"
+on-disable: "§cWarpsYML disabled!"
+
+#errors
+loading-warp-error: "§cError on loading warp §6%warpname%!"
+setting-warp-error: "§cError on setting warp §6%warpname%!"
+deleting-warp-error: "§cCould not delete warp §6%warpname%!"
+
+#command-errors
+correct-usage: "§cCorrect usage: %commandusage%"
+only-players-command: "§cOnly players can execute this command!"
+no-permission: "§cYou don't have permission for this!"
+
+#commands
+warp-set: "§aWarp §6%warpname% §ahas been set!"
+warp-set-broadcast: "§6%playername% §eset warp §6%warpname%§e at §6%warplocation%§e!"
+warp-deleted: "§aWarp §6%warpname% §adeleted successfully!"
+warp-deleted-broadcast: "§6%playername% §edeleted warp §6%warpname%!"
+warp-teleported: "§aTeleported to: §6%warpname%"
+warp-list: "§eWarps: §6%warplist%"
+warp-list-separator: ", "
+warp-not-set: "§cWarp §6%warpname%§c hasn't been set yet."
+no-warps-set: "§cNo warp has been set."

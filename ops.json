@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "0114f96e-2456-37f1-b811-535372da1094",
+    "name": "raphael_imp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "b05615ba-6857-4364-82b6-fb89a3f0f213",
     "name": "raphael_imp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fac93c9a-9b3e-32f9-b950-e8dcb703b7dd",
+    "name": "MGG",
     "level": 4,
     "bypassesPlayerLimit": false
   }
